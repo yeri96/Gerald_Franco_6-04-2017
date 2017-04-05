@@ -21,7 +21,7 @@ if (aleatori==3):
 if (aleatori==4):
 	jugador2="LA"
 if (aleatori==5):
-	jugador2=="SP"
+	jugador2="SP"
 print "Mi jugada és:" , jugador2
 
 # Empat (5 combinacions)
